@@ -1,0 +1,26 @@
+{
+  "name": "Gulp",
+  "version": "1.0.0",
+  "description": "This is a sample application with gulp, typescript",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrikanthChebrolu/Gulp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrikanthChebrolu/Gulp/issues"
+  },
+  "homepage": "https://github.com/SrikanthChebrolu/Gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0",
+    "gulp-typescript": "^3.2.2",
+    "typescript": "^2.5.2"
+  }
+}
